@@ -1,0 +1,12 @@
+/*
+Theme Name: Mademoiselle Digital
+Author: David
+Version: 1.0
+Description: Mon thème enfant de Astra
+Template: astra
+
+*/
+
+.um-account-profile-link {
+	display: none !important;
+}
